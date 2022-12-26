@@ -1,0 +1,458 @@
+*{
+    box-sizing: border-box;
+}
+.section1{
+    background-color: white;
+    width: 100%;
+    height:50px;    
+}
+.main-body{
+    width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0px;
+    font-family:AdihausDIN, Helvetica, Arial, sans-serif;
+    width: 100%;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 23px;
+    float: left;
+}
+
+.logo-text{
+    color: rgb(9, 9, 9);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    
+    margin-left: 25px;
+}
+
+.menu{
+    width: 50%;
+    padding-top: 23px;
+    float: left;
+}
+
+.menu-text{
+    float:left;
+    color: rgb(9, 9, 9);
+    font-size: 12.5px;
+    padding-top: 7px;
+    text-decoration: none;
+    font-family:AdihausDIN, Helvetica, Arial, sans-serif;
+    margin-left: 250px;
+}
+
+.about{
+    margin-right: 30px;
+}
+
+.sustainability{
+    margin-right: 30px
+}
+
+.media{
+    margin-right: 30px
+}
+
+.investors{
+    margin-right: 30px
+}
+
+.en{
+    margin-right: 30px
+}
+
+.section2{
+    width: 100%;
+    background-color: black;
+    height: 30px;
+    text-align: center;
+    font-size:12px ;
+ 
+    
+       
+}
+
+.xetra{
+    color: white;
+}
+
+.value{
+    color: white;
+    font-weight: bold;
+}
+
+.difference{
+    color: red;
+    font-weight: bold;
+}
+
+.section3{
+    width: 100%;
+    height: 650px;
+    background-color: blueviolet;
+    
+
+    
+}
+
+.results{
+    display: flex;
+    width: 50%;
+    float: left;
+    background-color:white;
+    height: 650px;
+    text-align: left;
+    
+   
+
+}
+
+.shoe{
+    width: 50%;
+    float: left;
+    background-color: blue;
+    height: 650px;
+    
+}
+
+
+
+.results-text{
+    font-size: 37px;
+    padding-left: 60px;
+    line-height: 1;
+    font-weight:800;
+    color: black;
+    padding-top: 280px;
+}
+
+.result{
+    font-size: 15px;
+    font-weight:1;
+}
+
+.read-more-button{
+    background-color: black;
+    color: white;
+    width:150px;
+    height: 50px;
+    font-weight:900;
+    font-size: 16px;
+    text-align: left;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: -13px;
+}
+
+.image{
+    width: 100%;
+    height: 650px;
+}
+
+.section4{
+    background-color:rgba(109, 124, 148, 0.279);
+    width: 100%;
+    height: 418px;
+    display: flex;
+
+}
+
+.one,.two,.three,.four{
+    flex:1;
+}
+
+.image4a{
+    margin-top: -10px;
+    width: 335px;
+    height: 220px;
+    margin-left:30px;
+}
+
+.image4b{
+    margin-top: 51px;
+    width: 335px;
+    height: 220px;
+    margin-left: 20px;
+   
+    
+}
+
+.image4c{
+    margin-top: 51px;
+    width: 335px;
+    height: 220px;
+    margin-left: 20px;
+}
+.image4d{
+    margin-top: 51px;
+    width: 335px;
+    height: 220px;
+    margin-left: 20px;
+}
+
+
+.heading4{
+    font-weight: bold;
+    font-size:12px ;
+}
+.catogory4{
+    font-size: small;
+    margin-left: 20px;
+}
+
+.catogory4a{
+    font-size: small;
+    margin-left: 30px;
+    
+}
+
+.heading4{
+    font-weight: bolder;
+    font-size: 19px;
+    margin-left: 20px;
+}
+
+.heading4a{
+    font-weight: bolder;
+    font-size: 19px;
+    margin-left: 30px;
+}
+
+.link4a{
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.link4a:hover{
+    background-color: black;
+    color: white;
+}
+
+.link4{
+    font-size: 13px;
+    font-weight: 600;
+    margin-left: 20px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.link4:hover{
+    background-color: black;
+    color: white;   
+}
+
+
+.image5{
+    
+    position: relative;
+    width: 100%;
+    height: 350px;
+    
+
+}
+.image5 img{
+    width: 100%;
+    height: 350px;
+    
+
+}
+
+
+
+
+.join-us{
+    
+    color: white;
+    font-size: 27px;
+   
+    margin-top: -300px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.open-positions{
+    position: relative;
+    display: inline;
+    color: white;
+    font-size: 19px;
+    top: 30px;
+    
+    
+    font-weight: 500;
+     
+
+}
+.open-positions p{
+    padding-left: 242px;
+
+}
+
+.locations{
+    position: relative;
+    display: inline;
+    color: white;
+    font-size: 19px;
+    top: -53px;
+    left: 724px;
+    
+    font-weight: 500;
+}
+
+.countries{
+    position:relative;
+    display: inline;
+    color: white;
+    font-size: 19px;
+    top: -47px;
+    left: 1087px;
+    
+    font-weight: 500;
+}
+
+.number1{
+    position: relative;
+    display: inline;
+    color: white;
+    font-size: 66px;
+    top: 15px;
+    left: 60px;
+    font-weight:bolder;
+}
+
+.number2{
+    position: relative;
+    display: inline;
+    color: white;
+    font-size: 66px;
+    top: 15px;
+    left: 377px;
+    font-weight:bolder; 
+}
+
+.number3{
+    position: relative;
+    display: inline;
+    color: white;
+    font-size: 66px;
+    top: 15px;
+    left: 714px;
+    font-weight:bolder;
+}
+
+.carreers{
+    position: relative;
+    background-color:white;
+    color:black;
+    width:fit-content;
+    height: 50px;
+    font-weight:700;
+    font-size: small;
+    text-align: center;
+    cursor: pointer; 
+    top: 101px;
+    left: 90px;
+    border: 0;
+    transition-delay: 0.15s;
+}
+.carreers:hover{
+    color: gray;
+}
+
+.section6{
+   padding: 35px 35px;
+    background-color: black;
+    height: 220px;
+    width: 100%;
+    color: white;
+    
+}
+.footer{
+    height: 150px;
+    width: 100%;
+}
+.upper{
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+
+
+
+.left-upper{
+    height: 100%;
+    width: 50%;
+    float: left;
+    }
+   
+.linkdin-logo{
+    width: 43px;
+    padding-left: 20px;
+}
+.follow{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 0px;
+}
+.social-media{
+    font-size: smaller;
+}
+
+.right-upper{
+    height: 100%;
+    width: 50%;
+    float: left;
+    }
+    
+.adidas-logo{
+        width: 50px;
+        margin-top: 0px;
+}
+
+.more{
+    font-size: small;
+}
+.line{
+    font-weight: 200;
+}
+.lower{
+    padding: 20px 20px;
+    width: 100%;
+    height: 50%;
+    float: left;
+}   
+
+.options{
+    margin: 0px;
+    padding-left: 0px;
+    
+}
+.lower ul{
+   display: flex;
+    list-style-type: none;
+    
+    
+}
+
+    
+.lower ul li{
+    margin-right: 20px;
+    font-size: small;
+    
+
+}
+
+.options  li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    text-underline-position: below;
+}
